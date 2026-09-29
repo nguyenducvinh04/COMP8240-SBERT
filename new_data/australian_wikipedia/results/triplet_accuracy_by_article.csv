@@ -1,0 +1,25 @@
+Category,Article,Triplets,Correct,Accuracy,Accuracy_percent,Mean_margin
+Universities,Macquarie University,50,43,0.86,86.0,0.16788385182619095
+Cities,Brisbane,50,41,0.82,82.0,0.12551444560289382
+Sport,Australian rules football,50,41,0.82,82.0,0.18829044759273528
+Universities,University of Melbourne,50,41,0.82,82.0,0.1394096304476261
+Wildlife,Koala,50,39,0.78,78.0,0.09581036686897278
+Cities,Perth,50,38,0.76,76.0,0.11633622035384178
+Landmarks,Sydney Opera House,50,38,0.76,76.0,0.10074199438095092
+Wildlife,Platypus,50,38,0.76,76.0,0.14496990606188775
+Universities,University of Sydney,50,37,0.74,74.0,0.1006994155049324
+Cities,Melbourne,50,37,0.74,74.0,0.10971259623765946
+Universities,Australian National University,50,36,0.72,72.0,0.09518715061247349
+Landmarks,Uluru,50,36,0.72,72.0,0.11748820148408413
+Wildlife,Kangaroo,50,34,0.68,68.0,0.06865604374557734
+Sport,Rugby league in Australia,50,34,0.68,68.0,0.0976481094956398
+Wildlife,Tasmanian devil,50,34,0.68,68.0,0.060219457000494005
+Sport,Cricket in Australia,50,33,0.66,66.0,0.07731369853019715
+History,History of Australia,50,32,0.64,64.0,0.0738967177271843
+Landmarks,Sydney Harbour Bridge,50,31,0.62,62.0,0.08476638805121184
+Landmarks,Great Barrier Reef,50,31,0.62,62.0,0.07264934509992599
+History,Federation of Australia,50,31,0.62,62.0,0.10267532363533974
+Cities,Sydney,50,29,0.58,57.99999999999999,0.04823407307267189
+Sport,Tennis in Australia,50,28,0.56,56.00000000000001,0.046877482533454896
+History,Australian gold rushes,50,27,0.54,54.0,0.02409878298640251
+History,Eureka Rebellion,50,27,0.54,54.0,0.007662873268127441

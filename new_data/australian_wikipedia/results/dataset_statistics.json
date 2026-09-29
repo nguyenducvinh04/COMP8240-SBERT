@@ -1,0 +1,10 @@
+{
+  "random_seed": 8240,
+  "articles_requested": 24,
+  "articles_found": 24,
+  "sections_kept": 638,
+  "sentences_kept": 7735,
+  "triplets_generated": 1200,
+  "target_triplets_per_article": 50,
+  "manual_review_sample_size": 50
+}

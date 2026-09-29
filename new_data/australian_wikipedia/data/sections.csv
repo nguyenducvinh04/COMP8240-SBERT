@@ -1,0 +1,639 @@
+category,article,article_url,section_id,section_title,section_path,sentence_count
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_001,Toponymy,Toponymy,7
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_002,First inhabitants of the region,History > First inhabitants of the region,19
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_003,Convict town (1788–1840),History > Convict town (1788–1840),32
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_004,Conflict on the Cumberland Plain,History > Convict town (1788–1840) > Conflict on the Cumberland Plain,9
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_005,Colonial city (1841–1900),History > Colonial city (1841–1900),13
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_006,State capital (1901–present),History > State capital (1901–present),36
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_007,Topography,Geography > Topography,12
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_008,Geology,Geography > Geology,15
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_009,Ecology,Geography > Ecology,13
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_010,Climate,Geography > Climate,22
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_011,Regions,Regions,3
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_012,Inner suburbs,Regions > Inner suburbs,19
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_013,Inner West,Regions > Inner West,16
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_014,Eastern Suburbs,Regions > Eastern Suburbs,10
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_015,Southern Sydney,Regions > Southern Sydney,5
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_016,Northern Sydney,Regions > Northern Sydney,11
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_017,Hills district,Regions > Hills district,7
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_018,Western suburbs,Regions > Western suburbs,15
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_019,Architecture,Urban structure > Architecture,36
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_020,Housing,Urban structure > Housing,16
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_021,Parks and open spaces,Urban structure > Parks and open spaces,18
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_022,Economy,Economy,16
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_023,Businesses,Economy > Businesses,4
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_024,Domestic economics,Economy > Domestic economics,21
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_025,Financial services,Economy > Financial services,10
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_026,Manufacturing,Economy > Manufacturing,7
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_027,Tourism and international education,Economy > Tourism and international education,13
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_028,Housing affordability,Economy > Housing affordability,2
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_029,Demographics,Demographics,10
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_030,Ancestry and immigration,Demographics > Ancestry and immigration,3
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_031,Religion,Demographics > Religion,7
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_032,Crime,Demographics > Crime,6
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_033,"Science, art, and history","Culture > Science, art, and history",17
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_034,Entertainment,Culture > Entertainment,42
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_035,Media,Culture > Media,15
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_036,Sport and outdoor activities,Sport and outdoor activities,21
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_037,Major sporting venues,Sport and outdoor activities > Major sporting venues,22
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_038,Historical governance,Government > Historical governance,9
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_039,Government in the present,Government > Government in the present,21
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_040,Education,Infrastructure > Education,18
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_041,Health,Infrastructure > Health,13
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_042,Roads,Infrastructure > Transport > Roads,12
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_043,Suburban trains,Infrastructure > Transport > Suburban trains,13
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_044,Metro,Infrastructure > Transport > Metro,7
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_045,Light rail,Infrastructure > Transport > Light rail,12
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_046,Buses,Infrastructure > Transport > Buses,4
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_047,Ferries,Infrastructure > Transport > Ferries,4
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_048,Airports,Infrastructure > Transport > Airports,11
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_049,Utilities,Infrastructure > Utilities,14
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_050,Air quality,Environmental issues and pollution reduction > Air quality,13
+Cities,Sydney,https://en.wikipedia.org/wiki/Sydney,Sydney_SEC_051,Car-dependency,Environmental issues and pollution reduction > Car-dependency,7
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_001,Name,Name,4
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_002,Indigenous people,History > Indigenous people,9
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_003,British colonisation,History > British colonisation,20
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_004,Victorian gold rush,History > Victorian gold rush,20
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_005,Land boom and bust,History > Land boom and bust,15
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_006,Temporary capital of Australia and World War II,History > Temporary capital of Australia and World War II,4
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_007,Post-war period,History > Post-war period,20
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_008,Contemporary Melbourne,History > Contemporary Melbourne,16
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_009,Geography,Geography,9
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_010,Climate,Geography > Climate,20
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_011,Urban structure,Urban structure,19
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_012,Housing,Urban structure > Housing,7
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_013,Architecture,Architecture,13
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_014,Culture,Culture,38
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_015,Sport,Sport,22
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_016,Economy,Economy,20
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_017,Tourism,Economy > Tourism,17
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_018,Demographics,Demographics,3
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_019,Ancestry and immigration,Demographics > Ancestry and immigration,3
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_020,Language,Demographics > Language,2
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_021,Religion,Demographics > Religion,10
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_022,Education,Education,12
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_023,Media,Media,14
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_024,Governance,Governance,5
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_025,Roads,Transport > Roads,15
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_026,Public transport,Transport > Public transport,8
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_027,Train,Transport > Public transport > Train,13
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_028,Tram,Transport > Public transport > Tram,6
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_029,Bus,Transport > Public transport > Bus,2
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_030,Airports,Transport > Public transport > Airports,9
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_031,Water transport,Transport > Public transport > Water transport,5
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_032,Health,Infrastructure > Health,7
+Cities,Melbourne,https://en.wikipedia.org/wiki/Melbourne,Melbourne_SEC_033,Utilities,Infrastructure > Utilities,12
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_001,Toponymy,Toponymy,10
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_002,Indigenous prehistory,History > Indigenous prehistory,3
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_003,18th and 19th centuries,History > 18th and 19th centuries,21
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_004,20th century,History > 20th century,12
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_005,21st century,History > 21st century,6
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_006,Geography and environment,Geography and environment,15
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_007,Ecology,Geography and environment > Ecology,12
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_008,Climate,Geography and environment > Climate,24
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_009,Urban structure,Urban structure,13
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_010,Parklands,Urban structure > Parklands,8
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_011,Architecture,Urban structure > Architecture,16
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_012,Demographics,Demographics,2
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_013,Ancestry and immigration,Demographics > Ancestry and immigration,8
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_014,Religion,Demographics > Religion,4
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_015,Economy,Economy,11
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_016,Retail,Economy > Retail,6
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_017,Culture and sport,Culture and sport,24
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_018,Annual events,Culture and sport > Annual events,11
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_019,Sport,Culture and sport > Sport,12
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_020,Tourism and recreation,Tourism and recreation,18
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_021,Governance,Governance,15
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_022,Politics,Governance > Politics,7
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_023,Education,Education,9
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_024,Transport,Infrastructure > Transport,6
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_025,Roads,Infrastructure > Transport > Roads,11
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_026,Bridges,Infrastructure > Transport > Bridges,7
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_027,Rail,Infrastructure > Transport > Rail,6
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_028,Bus,Infrastructure > Transport > Bus,5
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_029,Ferry,Infrastructure > Transport > Ferry,5
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_030,Pedestrian,Infrastructure > Transport > Pedestrian,3
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_031,Airports,Infrastructure > Transport > Airports,7
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_032,Seaport,Infrastructure > Transport > Seaport,8
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_033,Healthcare,Infrastructure > Healthcare,10
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_034,Other utilities,Infrastructure > Other utilities,10
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_035,Print,Media > Print,6
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_036,Television,Media > Television,4
+Cities,Brisbane,https://en.wikipedia.org/wiki/Brisbane,Brisbane_SEC_037,Radio,Media > Radio,4
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_001,Toponymy,Toponymy,5
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_002,Prehistory,History > Prehistory,10
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_003,European exploration,History > European exploration,8
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_004,Swan River Colony,History > Swan River Colony,11
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_005,Convict era and gold rushes,History > Convict era and gold rushes,9
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_006,Federation and beyond,History > Federation and beyond,23
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_007,Central business district,Geography > Central business district,7
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_008,Metropolitan area,Geography > Metropolitan area,7
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_009,Geology and landforms,Geography > Geology and landforms,9
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_010,Climate,Geography > Climate,20
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_011,Isolation,Geography > Isolation,3
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_012,Demographics,Demographics,2
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_013,Ancestry and immigration,Demographics > Ancestry and immigration,24
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_014,Religion,Demographics > Religion,16
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_015,Local,Governance > Local,2
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_016,State,Governance > State,4
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_017,Federal,Governance > Federal,2
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_018,Economy,Economy,20
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_019,Education,Education,2
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_020,Primary and secondary,Education > Primary and secondary,3
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_021,Tertiary,Education > Tertiary,17
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_022,Newspapers,Media > Newspapers,3
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_023,Radio,Media > Radio,5
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_024,Television,Media > Television,8
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_025,Arts and entertainment,Culture > Arts and entertainment,29
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_026,Tourism and recreation,Culture > Tourism and recreation,41
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_027,Sport,Sport,19
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_028,Health,Infrastructure > Health,5
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_029,Driving,Infrastructure > Transport > Driving,2
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_030,"Public transport (trains, buses, ferries)","Infrastructure > Transport > Public transport (trains, buses, ferries)",7
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_031,Sea,Infrastructure > Transport > Sea,2
+Cities,Perth,https://en.wikipedia.org/wiki/Perth,Perth_SEC_032,Utilities,Infrastructure > Utilities,13
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_001,20th century,History > 20th century,28
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_002,21st century,History > 21st century,17
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_003,Campuses and buildings,Campuses and buildings,9
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_004,Macquarie University Hospital,Campuses and buildings > Macquarie University Hospital,5
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_005,Commercial use,Campuses and buildings > Commercial use,6
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_006,University Council,Governance and structure > University Council,9
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_007,Chancellor and Vice-Chancellor,Governance and structure > University Council > Chancellor and Vice-Chancellor,4
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_008,Coat of arms,Governance and structure > Heraldry and insignia > Coat of arms,7
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_009,Branding,Governance and structure > Heraldry and insignia > Branding,3
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_010,Research and publications,Academic profile > Research and publications,12
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_011,Research divisions,Academic profile > Research divisions,3
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_012,Library and archives,Academic profile > Library and archives,5
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_013,Museums and collections,Academic profile > Museums and collections,4
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_014,Start-up incubator,Academic profile > Other sub-units > Start-up incubator,5
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_015,Academic reputation,Academic profile > Academic reputation,7
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_016,Student outcomes,Academic profile > Student outcomes,6
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_017,International,Academic profile > Admissions > International,3
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_018,Student life,Student life,2
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_019,Student demographics,Student life > Student demographics,3
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_020,Student media and radio,Student life > Student media and radio,2
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_021,Campus traditions,Student life > Campus traditions,2
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_022,Sports and athletics,Student life > Sports and athletics,6
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_023,Residential colleges,Student life > Residential colleges,7
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_024,Leadership and development,Student life > Leadership and development,13
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_025,Transportation,Student life > Transportation,4
+Universities,Macquarie University,https://en.wikipedia.org/wiki/Macquarie_University,Macquarie_University_SEC_026,Notable alumni,Notable people > Notable alumni,2
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_001,1850–1950,History > 1850–1950,23
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_002,1950–2000,History > 1950–2000,10
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_003,2000s,History > 2000s,5
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_004,2010s,History > 2010s,25
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_005,2020s,History > 2020s,3
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_006,Main campus,Campuses and buildings > Main campus,27
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_007,Satellite campuses,Campuses and buildings > Satellite campuses,15
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_008,Affiliated colleges,Campuses and buildings > Affiliated colleges,2
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_009,Halls of residence,Campuses and buildings > Halls of residence,6
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_010,Centre for Continuing education,Governance and structure > Faculties and departments > Centre for Continuing education,2
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_011,Centre for International Security Studies,Governance and structure > Faculties and departments > Centre for International Security Studies,2
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_012,Finances and endowment,Governance and structure > Finances and endowment,2
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_013,Coat of arms,Governance and structure > Heraldry and insignia > Coat of arms,6
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_014,Libraries and archives,Academic profile > Libraries and archives,8
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_015,Museums and galleries,Academic profile > Museums and galleries,5
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_016,Collections,Academic profile > Museums and galleries > Collections,12
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_017,Academic reputation,Academic profile > Academic reputation,7
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_018,Student outcomes,Academic profile > Student outcomes,6
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_019,Student union,Student life > Student union,6
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_020,Charles Perkins Oration and Prize,Student life > Charles Perkins Oration and Prize,4
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_021,Revues,Student life > Revues,6
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_022,Notable alumni,Notable people > Notable alumni,12
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_023,Sexual harassment,Controversies > Sexual harassment,8
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_024,Staff underpayment,Controversies > Staff underpayment,5
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_025,Insufficient seating,Controversies > Insufficient seating,3
+Universities,University of Sydney,https://en.wikipedia.org/wiki/University_of_Sydney,University_of_Sydney_SEC_026,Cyberattack,Controversies > Cyberattack,2
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_001,Foundations of the university,History > Foundations of the university,15
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_002,1900s – 1970s,History > 1900s – 1970s,11
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_003,"1980s – 2000s: Consolidation, expansion and the Melbourne Model","History > 1980s – 2000s: Consolidation, expansion and the Melbourne Model",19
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_004,2010s: Further restructures and Davis' final term,History > 2010s: Further restructures and Davis' final term,8
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_005,"2020 – 2023: COVID-19 impacts, further expansion plans and workforce tensions","History > 2020 – 2023: COVID-19 impacts, further expansion plans and workforce tensions",20
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_006,2024 – present: Student occupations and conclusion of Maskell's tenure,History > 2024 – present: Student occupations and conclusion of Maskell's tenure,14
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_007,Campuses and buildings,Campuses and buildings,13
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_008,Parkville,Campuses and buildings > Parkville,13
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_009,Southbank,Campuses and buildings > Southbank,6
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_010,Burnley,Campuses and buildings > Burnley,5
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_011,Creswick,Campuses and buildings > Creswick,5
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_012,Dookie,Campuses and buildings > Dookie,5
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_013,Shepparton,Campuses and buildings > Shepparton,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_014,Werribee,Campuses and buildings > Werribee,2
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_015,Fishermans Bend,Campuses and buildings > Fishermans Bend,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_016,Former campuses,Campuses and buildings > Former campuses,5
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_017,University Council,Governance and structure > University Council,10
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_018,Academic Board,Governance and structure > University Council > Academic Board,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_019,Finances and endowment,Governance and structure > Finances and endowment,6
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_020,Academic reputation,Academic profile > Academic reputation,7
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_021,Research and publications,Academic profile > Research and publications,10
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_022,Teaching structure,Academic profile > Teaching structure,6
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_023,Entrepreneurship,Academic profile > Entrepreneurship,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_024,Libraries and collections,Academic profile > Libraries and collections,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_025,Grainger Museum,Academic profile > Museums and archives > Grainger Museum,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_026,Harry Brookes Allen Museum of Anatomy and Pathology,Academic profile > Museums and archives > Harry Brookes Allen Museum of Anatomy and Pathology,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_027,Henry Forman Atkinson Dental Museum,Academic profile > Museums and archives > Henry Forman Atkinson Dental Museum,2
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_028,Ian Potter Museum of Art,Academic profile > Museums and archives > Ian Potter Museum of Art,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_029,Medical History Museum,Academic profile > Museums and archives > Medical History Museum,2
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_030,Ed Muirhead Physics Museum,Academic profile > Museums and archives > Ed Muirhead Physics Museum,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_031,Tiegs Museum,Academic profile > Museums and archives > Tiegs Museum,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_032,Fiona & Sidney Myer Gallery,Academic profile > Galleries and exhibitions > Fiona & Sidney Myer Gallery,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_033,Noel Shaw Gallery,Academic profile > Galleries and exhibitions > Noel Shaw Gallery,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_034,Buxton Contemporary,Academic profile > Galleries and exhibitions > Buxton Contemporary,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_035,Science Gallery,Academic profile > Galleries and exhibitions > Science Gallery,3
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_036,Dax Centre,Academic profile > Other collections > Dax Centre,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_037,Student outcomes,Academic profile > Student outcomes,6
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_038,Admissions,Academic profile > Admissions,9
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_039,Student unions and associations,Student life > Student unions and associations,11
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_040,Sports and athletics,Student life > Sports and athletics,15
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_041,Affiliated colleges,Student life > Affiliated colleges,6
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_042,Halls of residence,Student life > Halls of residence,4
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_043,Chancellors,Notable people > Chancellors,19
+Universities,University of Melbourne,https://en.wikipedia.org/wiki/University_of_Melbourne,University_of_Melbourne_SEC_044,Awards and prizes,Notable people > Awards and prizes,7
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_001,Post-war origins,History > Post-war origins,11
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_002,Canberra University College,History > Canberra University College,7
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_003,Modern era,History > Modern era,17
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_004,Campuses and buildings,Campuses and buildings,8
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_005,Drill Hall Gallery,Campuses and buildings > Drill Hall Gallery,7
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_006,University Council,Governance and structure > University Council,4
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_007,Constituent colleges,Governance and structure > Constituent colleges,2
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_008,"Arts, Humanities and Social Sciences","Governance and structure > Constituent colleges > Arts, Humanities and Social Sciences",8
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_009,Asia and the Pacific,Governance and structure > Constituent colleges > Asia and the Pacific,7
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_010,Business and Economics,Governance and structure > Constituent colleges > Business and Economics,2
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_011,Systems and Society,Governance and structure > Constituent colleges > Systems and Society,3
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_012,"Law, Governance and Policy","Governance and structure > Constituent colleges > Law, Governance and Policy",5
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_013,Science and Medicine,Governance and structure > Constituent colleges > Science and Medicine,9
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_014,Academic profile,Academic profile,5
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_015,Libraries and archives,Academic profile > Libraries and archives,3
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_016,"Tuition, loans and financial aid","Academic profile > Tuition, loans and financial aid",9
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_017,Academic reputation,Academic profile > Academic reputation,7
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_018,Student outcomes,Academic profile > Student outcomes,6
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_019,Student associations,Student life > Student associations,2
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_020,Woroni,Student life > Student media > Woroni,10
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_021,ANU Observer,Student life > Student media > ANU Observer,4
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_022,Residential halls and colleges,Student life > Residential halls and colleges,10
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_023,Academics and staff,Notable people > Academics and staff,3
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_024,2018 network compromise,Events > 2018 network compromise,3
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_025,2023 campus attack,Events > 2023 campus attack,3
+Universities,Australian National University,https://en.wikipedia.org/wiki/Australian_National_University,Australian_National_University_SEC_026,College of Health and Medicine discrimination scandal,Events > College of Health and Medicine discrimination scandal,6
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_001,Description,Description,10
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_002,Performance venues and facilities,Description > Performance venues and facilities,10
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_003,Site selection,History > Origins of the project > Site selection,4
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_004,Architecture competition 1955–1957,History > Origins of the project > Architecture competition 1955–1957,16
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_005,Preparation of site,History > Design development and construction timeline > Preparation of site,2
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_006,Stage I: Podium,History > Design development and construction timeline > Stage I: Podium,6
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_007,Stage II: Roof,History > Design development and construction timeline > Stage II: Roof,25
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_008,Stage III: Interiors,History > Design development and construction timeline > Stage III: Interiors,10
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_009,Significant changes to Utzon's design,History > Design development and construction timeline > Significant changes to Utzon's design,16
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_010,Completion and cost,History > Design development and construction timeline > Completion and cost,6
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_011,Strike and Workers' Control,History > Design development and construction timeline > Strike and Workers' Control,4
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_012,Utzon and his resignation,History > Utzon and his resignation,43
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_013,Opening,History > Opening,4
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_014,Reconciliation with Utzon; building refurbishment,History > Reconciliation with Utzon; building refurbishment,17
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_015,Architectural design role of Peter Hall,History > Architectural design role of Peter Hall,25
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_016,Performance firsts,Performance firsts,11
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_017,Public and commemorative events,Public and commemorative events,16
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_018,Controversies,Controversies,8
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_019,Coronation controversy,Controversies > Coronation controversy,2
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_020,Notable performances,Notable performances,18
+Landmarks,Sydney Opera House,https://en.wikipedia.org/wiki/Sydney_Opera_House,Sydney_Opera_House_SEC_021,Archival holdings,Archival holdings,2
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_001,Structure,Structure,5
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_002,Arch,Structure > Arch,9
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_003,Pylons,Structure > Pylons,14
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_004,Early proposals,History > Early proposals,13
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_005,Planning,History > Planning,18
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_006,Construction,History > Construction,41
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_007,Official opening ceremony,History > Official opening ceremony,29
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_008,Road,Operations > Road,10
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_009,Tidal flow,Operations > Tidal flow,14
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_010,Tolls,Operations > Tolls,27
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_011,Pedestrians,Operations > Pedestrians,7
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_012,Cyclists,Operations > Cyclists,8
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_013,Rail,Operations > Rail,5
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_014,Maintenance,Operations > Maintenance,14
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_015,South-east pylon,Tourism > South-east pylon,16
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_016,BridgeClimb,Tourism > BridgeClimb,12
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_017,50th Anniversary celebrations,Celebrations > 50th Anniversary celebrations,3
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_018,Bicentennial Australia Day celebrations,Celebrations > Bicentennial Australia Day celebrations,4
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_019,Sydney New Year's Eve,Celebrations > Sydney New Year's Eve,4
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_020,Walk for Reconciliation,Celebrations > Walk for Reconciliation,4
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_021,Sydney 2000 Olympics,Celebrations > Sydney 2000 Olympics,5
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_022,75th anniversary,Celebrations > 75th anniversary,15
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_023,Breakfast on the Bridge,Celebrations > Breakfast on the Bridge,2
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_024,80th anniversary,Celebrations > 80th anniversary,3
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_025,Protests,Protests,4
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_026,March For Humanity,Protests > March For Humanity,5
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_027,Flags,Flags,3
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_028,Quotations,Quotations,11
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_029,Heritage listing,Heritage listing,19
+Landmarks,Sydney Harbour Bridge,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,Sydney_Harbour_Bridge_SEC_030,Engineering recognition,Engineering recognition,2
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_001,Name,Name,6
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_002,Description,Description,6
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_003,Arrival of Europeans (1870s),History > Arrival of Europeans (1870s),9
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_004,Aboriginal reserve (1920),History > Aboriginal reserve (1920),2
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_005,Tourism (1936–1960s),History > Tourism (1936–1960s),7
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_006,Aboriginal ownership since 1985,History > Aboriginal ownership since 1985,6
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_007,Tourism,Tourism,10
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_008,Climbing,Tourism > Climbing,19
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_009,Photography,Tourism > Photography,4
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_010,Waterfalls,Tourism > Waterfalls,2
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_011,Geology,Geology,5
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_012,Composition,Geology > Composition,7
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_013,Age and origin,Geology > Age and origin,11
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_014,"Aboriginal myths, legends and traditions","Aboriginal myths, legends and traditions",5
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_015,Creation of the rock,"Aboriginal myths, legends and traditions > Creation of the rock",9
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_016,Other stories,"Aboriginal myths, legends and traditions > Other stories",6
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_017,Mala story,"Aboriginal myths, legends and traditions > Other stories > Mala story",14
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_018,Flora and fauna,Flora and fauna,28
+Landmarks,Uluru,https://en.wikipedia.org/wiki/Uluru,Uluru_SEC_019,Climate and five seasons,Climate and five seasons,5
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_001,"""Discovery"" and naming","""Discovery"" and naming",5
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_002,Geology and geography,Geology and geography,40
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_003,Ecology,Ecology,27
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_004,Environmental threats,Environmental threats,5
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_005,Climate change,Environmental threats > Climate change,11
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_006,Ocean Acidification,Environmental threats > Ocean Acidification,6
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_007,Pollution,Environmental threats > Pollution,8
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_008,Loss of coastal wetland,Environmental threats > Pollution > Loss of coastal wetland,2
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_009,Eutrophication,Environmental threats > Pollution > Eutrophication,5
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_010,Pollution from mining,Environmental threats > Pollution > Pollution from mining,2
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_011,Crown of thorns,Environmental threats > Crown of thorns,4
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_012,Overfishing,Environmental threats > Overfishing,3
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_013,Shipping,Environmental threats > Shipping,4
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_014,Shark culling,Environmental threats > Shark culling,7
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_015,Protection and preservation: Reef 2050 plan,Protection and preservation: Reef 2050 plan,8
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_016,Conservation Policy: Reef 2050 Water Quality Improvement Plan,Protection and preservation: Reef 2050 plan > Conservation Policy: Reef 2050 Water Quality Improvement Plan,8
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_017,Human use,Human use,12
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_018,Management,Human use > Management,53
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_019,Abbot Point coal port dredge dumping controversy,Human use > Management > Abbot Point coal port dredge dumping controversy,15
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_020,Tourism,Human use > Tourism,33
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_021,Fishing,Human use > Fishing,2
+Landmarks,Great Barrier Reef,https://en.wikipedia.org/wiki/Great_Barrier_Reef,Great_Barrier_Reef_SEC_022,Dugong hunting,Human use > Dugong hunting,2
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_001,Name,Name,2
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_002,Origins,History > Origins,17
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_003,First rules,History > First rules,8
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_004,Early competition in Victoria,History > Early competition in Victoria,13
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_005,Spread to other colonies,History > Spread to other colonies,14
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_006,Emergence of the VFL,History > Emergence of the VFL,4
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_007,Interstate football and the World Wars,History > Interstate football and the World Wars,26
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_008,Towards a national league,History > Towards a national league,18
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_009,Players and equipment,Laws of the game > Players and equipment,10
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_010,Ball,Laws of the game > Ball,6
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_011,Field,Laws of the game > Field,11
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_012,Match duration,Laws of the game > Match duration,9
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_013,Officiation,Laws of the game > Officiation,11
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_014,Ball movement,Laws of the game > Game skills > Ball movement,5
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_015,Tackling,Laws of the game > Game skills > Tackling,8
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_016,Marking,Laws of the game > Game skills > Marking,9
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_017,Rucking,Laws of the game > Game skills > Rucking,7
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_018,Misconduct,Laws of the game > Misconduct,6
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_019,Scoring,Laws of the game > Scoring,18
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_020,Governing bodies and competitions,Governing bodies and competitions,13
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_021,Women and Australian rules,Women and Australian rules,8
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_022,Variations and related sports,Variations and related sports,4
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_023,International rules football,Variations and related sports > International rules football,5
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_024,Global reach,Global reach,19
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_025,Cultural influence and popularity,Cultural influence and popularity,11
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_026,In the arts and popular culture,Cultural influence and popularity > In the arts and popular culture,14
+Sport,Australian rules football,https://en.wikipedia.org/wiki/Australian_rules_football,Australian_rules_football_SEC_027,Australian Football Hall of Fame,Australian Football Hall of Fame,5
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_001,1803–1939,History > 1803–1939,38
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_002,1945–1969,History > 1945–1969,15
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_003,1970–present,History > 1970–present,59
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_004,Administration,Administration,6
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_005,National teams,National teams,2
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_006,Men's senior team,National teams > Performance > Men's senior team,3
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_007,Participation,Affiliated state associations > Participation,5
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_008,International cricket,Organisation of cricket in modern Australia > International cricket,3
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_009,Men's national team,Organisation of cricket in modern Australia > International cricket > Men's national team,30
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_010,Women's national team,Organisation of cricket in modern Australia > International cricket > Women's national team,19
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_011,First class competitions,Organisation of cricket in modern Australia > Domestic cricket > Men's domestic cricket > First class competitions,7
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_012,Limited overs competitions,Organisation of cricket in modern Australia > Domestic cricket > Men's domestic cricket > Limited overs competitions,9
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_013,Twenty20 cricket,Organisation of cricket in modern Australia > Twenty20 cricket,7
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_014,Limited overs competitions,Organisation of cricket in modern Australia > Twenty20 cricket > Women's domestic cricket > Limited overs competitions,3
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_015,Twenty20 competitions,Organisation of cricket in modern Australia > Twenty20 cricket > Women's domestic cricket > Twenty20 competitions,2
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_016,Stadiums,Stadiums,3
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_017,In Australian culture,In Australian culture,10
+Sport,Cricket in Australia,https://en.wikipedia.org/wiki/Cricket_in_Australia,Cricket_in_Australia_SEC_018,Audience,In Australian culture > Audience,13
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_001,20th century,History > 20th century,41
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_002,21st century,History > 21st century,10
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_003,Federal governing body,Governing body > Federal governing body,2
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_004,State based governing bodies,Governing body > State based governing bodies,5
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_005,Club competitions,Club competitions,8
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_006,Attendances,Club competitions > Attendances,17
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_007,Representative competitions,Representative competitions,6
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_008,Total participation,Demographics of the game > Total participation,6
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_009,Women in rugby league,Demographics of the game > Women in rugby league,19
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_010,Junior participation,Demographics of the game > Age > Junior participation,6
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_011,Senior participation,Demographics of the game > Age > Senior participation,6
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_012,Location,Demographics of the game > Location,8
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_013,Variants,Variants,2
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_014,Touch,Variants > Touch,7
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_015,OzTag,Variants > OzTag,4
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_016,League Tag,Variants > League Tag,4
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_017,The national team,The national team,3
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_018,In popular culture,In popular culture,2
+Sport,Rugby league in Australia,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,Rugby_league_in_Australia_SEC_019,Media coverage,Media coverage,12
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_001,History,History,3
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_002,ATP Challenger Tour,Lower Tier Tournaments > ATP Challenger Tour,2
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_003,WTA 125 Tournaments,Lower Tier Tournaments > WTA 125 Tournaments,2
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_004,ITF Tour,Lower Tier Tournaments > ITF Tour,2
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_005,Top 10 Ranked Players,Highest ranked players > Top 10 Ranked Players,2
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_006,Australian Open,Broadcasting > Australian Open,8
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_007,French Open,Broadcasting > French Open,3
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_008,Wimbledon,Broadcasting > Wimbledon,4
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_009,US Open,Broadcasting > US Open,4
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_010,ATP Tour Events,Broadcasting > ATP Tour Events,2
+Sport,Tennis in Australia,https://en.wikipedia.org/wiki/Tennis_in_Australia,Tennis_in_Australia_SEC_011,WTA Tour Events,Broadcasting > WTA Tour Events,2
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_001,Terminology,Terminology,14
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_002,Taxonomy and description,Taxonomy and description,36
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_003,Comparison with wallabies,Taxonomy and description > Comparison with wallabies,2
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_004,Locomotion,Biology and behaviour > Locomotion,8
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_005,Diet,Biology and behaviour > Diet,7
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_006,Absence of digestive methane release,Biology and behaviour > Diet > Absence of digestive methane release,3
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_007,Social and sexual behaviour,Biology and behaviour > Social and sexual behaviour,43
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_008,Predators,Biology and behaviour > Predators,7
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_009,Adaptations,Biology and behaviour > Adaptations,27
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_010,Blindness,Biology and behaviour > Blindness,7
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_011,Reproduction and life cycle,Biology and behaviour > Reproduction and life cycle,16
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_012,Interaction with humans,Interaction with humans,19
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_013,Meat,Interaction with humans > Meat,9
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_014,Collisions with vehicles,Interaction with humans > Collisions with vehicles,13
+Wildlife,Kangaroo,https://en.wikipedia.org/wiki/Kangaroo,Kangaroo_SEC_015,Emblems and popular culture,Emblems and popular culture,12
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_001,Etymology,Etymology,7
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_002,Taxonomy,Taxonomy,5
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_003,Evolution,Taxonomy > Evolution,11
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_004,Genetics and variations,Taxonomy > Genetics and variations,11
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_005,Characteristics,Characteristics,43
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_006,Distribution and habitat,Distribution and habitat,9
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_007,Foraging and activities,Behaviour and ecology > Foraging and activities,19
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_008,Social life,Behaviour and ecology > Social life,26
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_009,Reproduction and development,Behaviour and ecology > Reproduction and development,31
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_010,Health and mortality,Behaviour and ecology > Health and mortality,22
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_011,History,Relation to humans > History,22
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_012,Cultural significance,Relation to humans > Cultural significance,27
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_013,Koala diplomacy,Relation to humans > Koala diplomacy,2
+Wildlife,Koala,https://en.wikipedia.org/wiki/Koala,Koala_SEC_014,Conservation,Conservation,34
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_001,Taxonomy and naming,Taxonomy and naming,18
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_002,Description,Description,26
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_003,Senses,Description > Senses,26
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_004,Venom,Description > Venom,8
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_005,Distribution and habitat,Distribution and habitat,10
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_006,Ecology and behaviour,Ecology and behaviour,19
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_007,Reproduction,Ecology and behaviour > Reproduction,21
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_008,Evolution,Evolution,21
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_009,Genome,Evolution > Genome,9
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_010,Conservation,Conservation,16
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_011,Sanctuaries and captivity,Conservation > Sanctuaries and captivity,9
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_012,Usage,Human interactions > Usage,4
+Wildlife,Platypus,https://en.wikipedia.org/wiki/Platypus,Platypus_SEC_013,Cultural references,Human interactions > Cultural references,8
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_001,Taxonomy,Taxonomy,31
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_002,Genetics,Taxonomy > Genetics,23
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_003,Description,Description,40
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_004,Distribution and habitat,Distribution and habitat,20
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_005,Ecology and behaviour,Ecology and behaviour,51
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_006,Feeding,Ecology and behaviour > Feeding,67
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_007,Reproduction,Ecology and behaviour > Reproduction,55
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_008,Conservation status,Conservation status,12
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_009,Population declines,Conservation status > Population declines,9
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_010,Culling,Conservation status > Culling,18
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_011,Road mortality,Conservation status > Road mortality,21
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_012,Devil facial tumour disease,Conservation status > Devil facial tumour disease,16
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_013,Relationship with humans,Relationship with humans,20
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_014,In captivity,Relationship with humans > In captivity,17
+Wildlife,Tasmanian devil,https://en.wikipedia.org/wiki/Tasmanian_devil,Tasmanian_devil_SEC_015,In popular culture,Relationship with humans > In popular culture,16
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_001,Indigenous prehistory,Indigenous prehistory,43
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_002,Dutch discovery and exploration,Early European exploration > Dutch discovery and exploration,9
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_003,British and French exploration,Early European exploration > British and French exploration,9
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_004,Plans for colonisation before 1788,Colonisation > Plans for colonisation before 1788,24
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_005,Establishment of the colony (1788 to 1792),Colonisation > Colony of New South Wales > Establishment of the colony (1788 to 1792),27
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_006,Consolidation (1793 to 1821),Colonisation > Colony of New South Wales > Consolidation (1793 to 1821),16
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_007,Expansion (1821 to 1850),Colonisation > Colony of New South Wales > Expansion (1821 to 1850),11
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_008,Establishment of further colonies,Colonisation > Establishment of further colonies,35
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_009,Convicts and emancipists,Colonisation > Convicts and colonial society > Convicts and emancipists,17
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_010,Free settlers,Colonisation > Convicts and colonial society > Free settlers,7
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_011,Women,Colonisation > Convicts and colonial society > Women,8
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_012,Religion,Colonisation > Convicts and colonial society > Religion,17
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_013,Exploration of the continent,Colonisation > Exploration of the continent,29
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_014,Impact of British settlement on Indigenous population,Colonisation > Impact of British settlement on Indigenous population,2
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_015,Disease,Colonisation > Impact of British settlement on Indigenous population > Disease,11
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_016,Conflict and dispossession,Colonisation > Impact of British settlement on Indigenous population > Conflict and dispossession,29
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_017,Accommodation and protection,Colonisation > Impact of British settlement on Indigenous population > Accommodation and protection,23
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_018,Towards representative government,From autonomy to federation > Colonial self-government and the gold rushes > Towards representative government,10
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_019,Gold rushes of the 1850s,From autonomy to federation > Colonial self-government and the gold rushes > Gold rushes of the 1850s,10
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_020,Eureka stockade,From autonomy to federation > Colonial self-government and the gold rushes > Eureka stockade,9
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_021,Self-government and democracy,From autonomy to federation > Colonial self-government and the gold rushes > Self-government and democracy,15
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_022,The long boom (1860 to 1890),From autonomy to federation > The long boom (1860 to 1890),23
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_023,1890s depression,From autonomy to federation > 1890s depression,14
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_024,Growth of nationalism,From autonomy to federation > Growth of nationalism,16
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_025,Federation movement,From autonomy to federation > Federation movement,19
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_026,From federation to war (1901–1914),From federation to war (1901–1914),36
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_027,Australia at war (1914–18),World War I > Australia at war (1914–18),28
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_028,Home front,World War I > Home front,13
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_029,Paris peace conference,World War I > Paris peace conference,6
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_030,"Men, money and markets (1920s)","Inter-war years > Men, money and markets (1920s)",33
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_031,Dominion status,Inter-war years > Dominion status,10
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_032,Great Depression,Inter-war years > Great Depression,45
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_033,Indigenous policy,Inter-war years > Indigenous policy,16
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_034,Defence policy in the 1930s,World War II > Defence policy in the 1930s,15
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_035,War,World War II > War,60
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_036,Australian home front,World War II > Australian home front,23
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_037,Menzies and Liberal dominance (1949–72),Post-war boom > Menzies and Liberal dominance (1949–72),21
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_038,Post-war immigration,Post-war boom > Post-war immigration,15
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_039,Economic growth and suburban living,Post-war boom > Economic growth and suburban living,26
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_040,Indigenous assimilation and child removal,Post-war boom > Indigenous assimilation and child removal,9
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_041,Alliances (1950–1972),Post-war boom > Alliances (1950–1972),22
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_042,Vietnam War,Post-war boom > Vietnam War,21
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_043,Whitlam government (1972–75),Reform and reaction (1972–1996) > Whitlam government (1972–75),22
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_044,Fraser government (1975–83),Reform and reaction (1972–1996) > Fraser government (1975–83),15
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_045,Labor governments (1983–1996),Reform and reaction (1972–1996) > Labor governments (1983–1996),33
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_046,Howard government (1996–2007),Australia in a globalised world (1996–2022) > Howard government (1996–2007),36
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_047,Labor governments (2007–2013),Australia in a globalised world (1996–2022) > Labor governments (2007–2013),17
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_048,Liberal-National Coalition governments (2013–2022),Australia in a globalised world (1996–2022) > Liberal-National Coalition governments (2013–2022),3
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_049,Abbott government (2013–2015),Australia in a globalised world (1996–2022) > Liberal-National Coalition governments (2013–2022) > Abbott government (2013–2015),8
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_050,Turnbull government (2015–2018),Australia in a globalised world (1996–2022) > Liberal-National Coalition governments (2013–2022) > Turnbull government (2015–2018),11
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_051,Morrison government (2018–2022),Australia in a globalised world (1996–2022) > Liberal-National Coalition governments (2013–2022) > Morrison government (2018–2022),16
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_052,Albanese government (2022–present),Post-pandemic (2022–present) > Albanese government (2022–present),8
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_053,Indigenous Australians,Society and culture (1960s–present) > Social developments > Indigenous Australians,47
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_054,Women,Society and culture (1960s–present) > Social developments > Women,15
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_055,Migrants and cultural diversity,Society and culture (1960s–present) > Social developments > Migrants and cultural diversity,32
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_056,Arts and culture,Society and culture (1960s–present) > Arts and culture,38
+History,History of Australia,https://en.wikipedia.org/wiki/History_of_Australia,History_of_Australia_SEC_057,Historiography,Historiography,26
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_001,Early calls for federation,Early calls for federation,18
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_002,Federal Council of Australasia,Early calls for federation > Federal Council of Australasia,23
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_003,Early opposition,Early calls for federation > Early opposition,23
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_004,Early constitutional conventions,Early constitutional conventions,4
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_005,Australasian Federal Conference of 1890,Early constitutional conventions > Australasian Federal Conference of 1890,21
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_006,Clark's draft constitution,Early constitutional conventions > Clark's draft constitution,10
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_007,The National Australasian Convention of 1891,Early constitutional conventions > The National Australasian Convention of 1891,9
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_008,Griffith or Clark?,Early constitutional conventions > Griffith or Clark?,24
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_009,Australasian Federal Convention of 1897–98,Australasian Federal Convention of 1897–98,18
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_010,Federation referendums,Federation referendums,5
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_011,Federal Constitution,Federal Constitution,7
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_012,The economic consequences of federation,The economic consequences of federation,5
+History,Federation of Australia,https://en.wikipedia.org/wiki/Federation_of_Australia,Federation_of_Australia_SEC_013,Landmarks named after Federation,Landmarks named after Federation,2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_001,History of discovery,History of discovery,26
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_002,1788: A hoax,Pre-rush gold finds > 1788: A hoax,11
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_003,"1820: Blue Mountains, New South Wales","Pre-rush gold finds > 1820: Blue Mountains, New South Wales",3
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_004,"1823: Bathurst region, New South Wales","Pre-rush gold finds > 1823: Bathurst region, New South Wales",3
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_005,"1834: Monaro district, New South Wales","Pre-rush gold finds > 1834: Monaro district, New South Wales",2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_006,"1837: Segenhoe, New South Wales","Pre-rush gold finds > 1837: Segenhoe, New South Wales",2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_007,"1840: Lefroy, Tasmania","Pre-rush gold finds > 1840: Lefroy, Tasmania",2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_008,"1841–1842: Bathurst and Goulburn regions, New South Wales","Pre-rush gold finds > 1841–1842: Bathurst and Goulburn regions, New South Wales",8
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_009,From 1843: Victoria,Pre-rush gold finds > From 1843: Victoria,2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_010,"1846: Castambul, South Australia","Pre-rush gold finds > 1846: Castambul, South Australia",8
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_011,1847: Victoria,Pre-rush gold finds > 1847: Victoria,5
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_012,"1848: Wellington, New South Wales","Pre-rush gold finds > 1848: Wellington, New South Wales",2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_013,"1848: Bathurst, New South Wales","Pre-rush gold finds > 1848: Bathurst, New South Wales",3
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_014,1848–1884: Pre–gold rush finds in Western Australia,Pre-rush gold finds > 1848–1884: Pre–gold rush finds in Western Australia,4
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_015,"1848–1850: Pyrenees Ranges, Victoria","Pre-rush gold finds > 1848–1850: Pyrenees Ranges, Victoria",13
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_016,"1849: Woady Yaloak River, Victoria","Pre-rush gold finds > 1849: Woady Yaloak River, Victoria",5
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_017,"1850: Clunes, Victoria","Pre-rush gold finds > 1850: Clunes, Victoria",9
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_018,"February 1851: Orange, New South Wales","Notable gold finds that started rushes > February 1851: Orange, New South Wales",9
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_019,"April 1851: Castlemaine district and Clunes, Victoria","Notable gold finds that started rushes > April 1851: Castlemaine district and Clunes, Victoria",10
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_020,"June 1851: Warrandyte, Victoria","Notable gold finds that started rushes > June 1851: Warrandyte, Victoria",18
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_021,"July 1851: Clunes, Victoria","Notable gold finds that started rushes > July 1851: Clunes, Victoria",11
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_022,"July 1851: Castlemaine, Victoria","Notable gold finds that started rushes > July 1851: Castlemaine, Victoria",10
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_023,"August 1851: Buninyong, Victoria","Notable gold finds that started rushes > August 1851: Buninyong, Victoria",5
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_024,"August 1851: Ballarat, Victoria","Notable gold finds that started rushes > August 1851: Ballarat, Victoria",12
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_025,"September 1851: Bendigo, Victoria","Notable gold finds that started rushes > September 1851: Bendigo, Victoria",47
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_026,1851 (undated): Other finds in Victoria,Notable gold finds that started rushes > 1851 (undated): Other finds in Victoria,2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_027,1851–1886: Managa and other finds in Tasmania,Notable gold finds that started rushes > 1851–1886: Managa and other finds in Tasmania,11
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_028,"1852 and 1868: Echunga, South Australia","Notable gold finds that started rushes > 1852 and 1868: Echunga, South Australia",25
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_029,"1857/8: Canoona near Rockhampton, Queensland","Notable gold finds that started rushes > 1857/8: Canoona near Rockhampton, Queensland",16
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_030,1861–1866: Cape River and other finds in Queensland,Notable gold finds that started rushes > 1861–1866: Cape River and other finds in Queensland,20
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_031,1867–1870: Gympie and other finds in Queensland,Notable gold finds that started rushes > 1867–1870: Gympie and other finds in Queensland,17
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_032,"1868: Gawler region, South Australia","Notable gold finds that started rushes > 1868: Gawler region, South Australia",9
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_033,1870–1893: Teetulpa and other finds in South Australia,Notable gold finds that started rushes > 1870–1893: Teetulpa and other finds in South Australia,10
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_034,"1871–1904: Charters Towers, Palmer River, and other finds in Queensland","Notable gold finds that started rushes > 1871–1904: Charters Towers, Palmer River, and other finds in Queensland",13
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_035,1871–1909: Pine Creek and other finds in the Northern Territory,Notable gold finds that started rushes > 1871–1909: Pine Creek and other finds in the Northern Territory,3
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_036,"1880: Mt McDonald, New South Wales","Notable gold finds that started rushes > 1880: Mt McDonald, New South Wales",3
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_037,"1885: Halls Creek in the Kimberley, Western Australia","Notable gold finds that started rushes > 1885: Halls Creek in the Kimberley, Western Australia",24
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_038,1887 The Yilgarn and 1888 Southern Cross,"Notable gold finds that started rushes > 1887–1891: Southern Cross, the Pilbara, and other finds in Western Australia > 1887 The Yilgarn and 1888 Southern Cross",13
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_039,1888: The Pilbara,"Notable gold finds that started rushes > 1887–1891: Southern Cross, the Pilbara, and other finds in Western Australia > 1888: The Pilbara",7
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_040,1891: Cue,"Notable gold finds that started rushes > 1887–1891: Southern Cross, the Pilbara, and other finds in Western Australia > 1891: Cue",2
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_041,1892: Coolgardie,"Notable gold finds that started rushes > 1892–1899: Coolgardie, Kalgoorlie, and other finds in Western Australia > 1892: Coolgardie",9
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_042,1893: Kalgoorlie,"Notable gold finds that started rushes > 1892–1899: Coolgardie, Kalgoorlie, and other finds in Western Australia > 1893: Kalgoorlie",9
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_043,1893–1899: Coolgardie and Kalgoorlie,"Notable gold finds that started rushes > 1892–1899: Coolgardie, Kalgoorlie, and other finds in Western Australia > 1893–1899: Coolgardie and Kalgoorlie",11
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_044,"1906: Tarnagulla, Victoria","Notable gold finds that started rushes > 1906: Tarnagulla, Victoria",5
+History,Australian gold rushes,https://en.wikipedia.org/wiki/Australian_gold_rushes,Australian_gold_rushes_SEC_045,Sources and further reading,Sources and further reading,20
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_001,Origins in the Victorian gold rush,Origins in the Victorian gold rush,9
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_002,La Trobe introduces monthly mining tax as protests begin,Origins in the Victorian gold rush > Protests on the goldfields: 1851–1854 > La Trobe introduces monthly mining tax as protests begin,6
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_003,First gold commissioner arrives in Ballarat,Origins in the Victorian gold rush > Protests on the goldfields: 1851–1854 > First gold commissioner arrives in Ballarat,24
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_004,Bendigo Petition and the Red Ribbon Movement,Origins in the Victorian gold rush > Protests on the goldfields: 1851–1854 > Bendigo Petition and the Red Ribbon Movement,36
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_005,Legislative Council calls for Commission of Inquiry,Origins in the Victorian gold rush > Protests on the goldfields: 1851–1854 > Legislative Council calls for Commission of Inquiry,16
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_006,Hotham replaces La Trobe,Origins in the Victorian gold rush > Protests on the goldfields: 1851–1854 > Hotham replaces La Trobe,5
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_007,Murder of James Scobie and the burning of the Eureka hotel,Tensions escalate > Murder of James Scobie and the burning of the Eureka hotel,27
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_008,Ballarat Reform League meetings,Tensions escalate > Ballarat Reform League meetings,23
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_009,Escalating violence as military convoy looted,Tensions escalate > Escalating violence as military convoy looted,6
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_010,Paramilitary mobilisation and swearing allegiance to the Southern Cross,Open rebellion > Paramilitary mobilisation and swearing allegiance to the Southern Cross,12
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_011,Fortification of the Eureka lead,Open rebellion > Paramilitary mobilisation and swearing allegiance to the Southern Cross > Fortification of the Eureka lead,29
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_012,Vinegar Hill blunder: Irish dimension factors in dwindling numbers at stockade,Open rebellion > Paramilitary mobilisation and swearing allegiance to the Southern Cross > Fortification of the Eureka lead > Vinegar Hill blunder: Irish dimension factors in dwindling numbers at stockade,29
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_013,Departing detachment of Independent Californian Rangers leaves small garrison behind,Open rebellion > Paramilitary mobilisation and swearing allegiance to the Southern Cross > Fortification of the Eureka lead > Departing detachment of Independent Californian Rangers leaves small garrison behind,12
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_014,Battle of the Eureka Stockade,Open rebellion > Battle of the Eureka Stockade,19
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_015,Aftermath,Aftermath,39
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_016,Trials for sedition and high treason,Aftermath > Trials for sedition and high treason,21
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_017,Commission of Inquiry report,Aftermath > Commission of Inquiry report,15
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_018,Peter Lalor enters parliament,Aftermath > Peter Lalor enters parliament,30
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_019,Location of Bakery Hill and the Eureka Stockade,Location of Bakery Hill and the Eureka Stockade,10
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_020,Political legacy,Political legacy,20
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_021,19th century,Commemoration > 19th century,30
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_022,20th century,Commemoration > 20th century,25
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_023,21st century,Commemoration > 21st century,11
+History,Eureka Rebellion,https://en.wikipedia.org/wiki/Eureka_Rebellion,Eureka_Rebellion_SEC_024,Popular culture,Popular culture,7

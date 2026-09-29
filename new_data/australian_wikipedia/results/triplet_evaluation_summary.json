@@ -1,0 +1,11 @@
+{
+  "model": "sentence-transformers/bert-base-nli-mean-tokens",
+  "triplets": 1200,
+  "correct": 836,
+  "incorrect": 364,
+  "accuracy": 0.6966666666666667,
+  "accuracy_percent": 69.66666666666667,
+  "mean_positive_similarity": 0.5016570377675816,
+  "mean_negative_similarity": 0.4072094326792285,
+  "mean_margin": 0.09444760508835316
+}

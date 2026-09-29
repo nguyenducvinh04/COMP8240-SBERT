@@ -1,0 +1,25 @@
+category,article,found,url,sections_kept,sentences_kept,triplets_generated
+Cities,Sydney,True,https://en.wikipedia.org/wiki/Sydney,51,708,50
+Cities,Melbourne,True,https://en.wikipedia.org/wiki/Melbourne,33,399,50
+Cities,Brisbane,True,https://en.wikipedia.org/wiki/Brisbane,37,359,50
+Cities,Perth,True,https://en.wikipedia.org/wiki/Perth,32,338,50
+Universities,Macquarie University,True,https://en.wikipedia.org/wiki/Macquarie_University,26,174,50
+Universities,University of Sydney,True,https://en.wikipedia.org/wiki/University_of_Sydney,26,212,50
+Universities,University of Melbourne,True,https://en.wikipedia.org/wiki/University_of_Melbourne,44,312,50
+Universities,Australian National University,True,https://en.wikipedia.org/wiki/Australian_National_University,26,161,50
+Landmarks,Sydney Opera House,True,https://en.wikipedia.org/wiki/Sydney_Opera_House,21,255,50
+Landmarks,Sydney Harbour Bridge,True,https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge,30,326,50
+Landmarks,Uluru,True,https://en.wikipedia.org/wiki/Uluru,19,161,50
+Landmarks,Great Barrier Reef,True,https://en.wikipedia.org/wiki/Great_Barrier_Reef,22,262,50
+Sport,Australian rules football,True,https://en.wikipedia.org/wiki/Australian_rules_football,27,281,50
+Sport,Cricket in Australia,True,https://en.wikipedia.org/wiki/Cricket_in_Australia,18,234,50
+Sport,Rugby league in Australia,True,https://en.wikipedia.org/wiki/Rugby_league_in_Australia,19,168,50
+Sport,Tennis in Australia,True,https://en.wikipedia.org/wiki/Tennis_in_Australia,11,34,50
+Wildlife,Kangaroo,True,https://en.wikipedia.org/wiki/Kangaroo,15,223,50
+Wildlife,Koala,True,https://en.wikipedia.org/wiki/Koala,14,269,50
+Wildlife,Platypus,True,https://en.wikipedia.org/wiki/Platypus,13,195,50
+Wildlife,Tasmanian devil,True,https://en.wikipedia.org/wiki/Tasmanian_devil,15,416,50
+History,History of Australia,True,https://en.wikipedia.org/wiki/History_of_Australia,57,1159,50
+History,Federation of Australia,True,https://en.wikipedia.org/wiki/Federation_of_Australia,13,169,50
+History,Australian gold rushes,True,https://en.wikipedia.org/wiki/Australian_gold_rushes,45,459,50
+History,Eureka Rebellion,True,https://en.wikipedia.org/wiki/Eureka_Rebellion,24,461,50
