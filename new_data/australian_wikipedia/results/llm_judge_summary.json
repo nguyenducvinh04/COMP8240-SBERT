@@ -1,0 +1,13 @@
+{
+  "judge_model": "gpt-6-luna",
+  "sample_size": 100,
+  "random_seed": 8240,
+  "positive_choices": 89,
+  "negative_choices": 11,
+  "ties": 0,
+  "weak_label_agreement": 0.89,
+  "sbert_agreement": 0.75,
+  "decisive_weak_label_agreement": 0.89,
+  "decisive_sbert_agreement": 0.75,
+  "cohen_kappa_llm_sbert": 0.2732558139534883
+}
